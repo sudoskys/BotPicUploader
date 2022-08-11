@@ -1,4 +1,4 @@
-
+# encoding: utf-8
 from telebot import logger
 import telebot
 import os
