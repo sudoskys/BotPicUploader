@@ -25,7 +25,7 @@ nohup python main.py > output.log 2>&1 &
 **查看进程**
 
 ```
-ps -ef
+ps -aux|grep python3
 ```
 
 **终止进程**
